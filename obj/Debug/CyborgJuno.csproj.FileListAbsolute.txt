@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\obj\Debug\CyborgJuno.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\obj\Debug\CyborgJuno.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\bin\Debug\CyborgJuno.exe.config
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\bin\Debug\CyborgJuno.exe
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\bin\Debug\CyborgJuno.pdb
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\bin\Debug\Telegram.Bot.dll
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\bin\Debug\Telegram.Bot.pdb
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\bin\Debug\Telegram.Bot.xml
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\obj\Debug\CyborgJuno.exe
+C:\Users\Administrator\Desktop\Telegram.Bot-master\CyborgJuno\obj\Debug\CyborgJuno.pdb
